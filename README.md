@@ -3,10 +3,10 @@
 # 역할
 
 **공학관 / 건물 간 길 씬 구현** 
-<br>(이전 역할) 포스코관 씬 초안: Asset/Posco_Scene_Draft<br>
+<br>(이전 역할) 포스코관 씬 초안: Assets/Posco_Scene_Draft<br>
 
 ## 05/14 Update
-공학관 씬: Asset/Engineering_Building<br>
+공학관 씬: Assets/Engineering_Building<br>
 구조도 영상:<br>
 https://youtu.be/iFigrNj5SQA<br>
 - 엘리베이터 구현 x<br>
