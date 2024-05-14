@@ -3,7 +3,7 @@
 # 역할
 
 공학관 / 건물 간 길 씬 구현 
-<br>(이전 역할) 포스코관 초안: Asset/Posco_Scene_Draft<br><br>
+<br>(이전 역할) 포스코관 초안: Asset/Posco_Scene_Draft<br>
 
 ## 05/14 
 공학관 초안: Asset/Engineering_Building<br>
