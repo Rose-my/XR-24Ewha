@@ -3,3 +3,5 @@
 # 역할
 공학관 / 건물 간 길 씬 구현 
 <br>포스코관 초안: Asset/Posco_Scene_Draft
+<br> 공학관 구조도 영상<br>
+https://youtu.be/iFigrNj5SQA
