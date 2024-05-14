@@ -8,4 +8,7 @@
 ## 05/14 
 공학관 초안: Asset/Engineering_Building<br>
 구조도 영상:<br>
-https://youtu.be/iFigrNj5SQA
+https://youtu.be/iFigrNj5SQA<br>
+- 엘리베이터 구현 x<br>
+- 1~4층만 구현 O<br>
+- 수정해야 할 점: B1층 추가하기, 층별 디테일 추가, 창문 더 많이, 내부 더 꾸미기, 외부 구조물 추가(지붕)<br>
