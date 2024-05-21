@@ -1,6 +1,11 @@
 # XR-24Ewha
 가상현실 금잔디 레포
 
+## vuforia API key
+AYQo+LP/////AAABmZmY6Pdi30zLqb7qU98
+
+7zLszhHGmUBAsWT9XaoLEvE+ci2tNFKQyYbBJV4kas9dCl8Y1RutOtYr24+pgifSt2du10zEzAz2jIxGq7E9Zx3vsEGnIV6KoPl0lD0ohS7rs4ZAxwQPOQ4gBQGbhI3tAKNaCEN6sUyOx2+yxvOYzgfQ26oDEVVfOYd9z63vWHWhtDtJ/C+GSUyZCfbFKvBj/dHBqJfFfdJm2MBb8RV1wsA1LZ8NboVOYs3LMU5jUOdYvjPsheXw91eVxauRZ8gtIhf+hyKc3BjJsOhAtrNbteBbk5xvF8DHFHSlEozldjqnNvkR7i1F8nEUGIXojF5KqwCkODcKCuBQP1zT64beGSVV8
+
 ## StartpointAR
 
 https://github.com/Rose-my/XR-24Ewha/assets/120544840/19ac9b45-4891-4fad-8a0c-61bbde684748
