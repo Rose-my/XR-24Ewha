@@ -23,4 +23,6 @@ https://youtu.be/iFigrNj5SQA<br>
 <br>
 - 엘리베이터 구현 <br>
 - 3, 4층 삭제<br>
+## 05/26 Update
+- 화살표, 내부 꾸미기, 엘리베이터 완료
 
